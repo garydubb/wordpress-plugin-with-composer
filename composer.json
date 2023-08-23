@@ -1,0 +1,17 @@
+{
+    "name": "garydubb/wp-plugin-development-composer",
+    "description": "This will handle every request coming from graphql",
+    "autoload": {
+        "psr-4": {"SAMPLENAMESPACE\\": "src"}
+    },
+    "authors": [
+        {
+            "name": "Garry Dubb",
+            "email": "sample@example.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
+   
+}
