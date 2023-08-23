@@ -19,7 +19,7 @@ Before you begin, make sure you have the following prerequisites installed:
 ## Getting Started
 1. Clone this repository to your local development environment:
 ```
-   git clone https://github.com/your-username/wp-plugin-development-composer.git
+   git clone https://github.com/garydubb/wp-plugin-development-composer.git
 ```
 
 2. Navigate to the plugin directory:
